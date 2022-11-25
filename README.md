@@ -8,9 +8,13 @@
 
 :smiley: I am a developer from [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou).
 
-:dart: My goal is to `Mind and Hand, making the world a little better through coding`, position at [Geekr.dev](https://geekr.dev).
+:dart: Mind and Hand, making the world a little better through coding.
 
-:pencil: I write a lot in my blog [geekr.dev](https://geekr.dev) and [laravelacademy.org](https://laravelacademy.org) Via Typora and Markdown.
+:computer: Coding with VSCode + NeoVim daily on Win/Mac(16c32g), main language is Go, with PHP second.
+
+:pencil: Writing and sharing tutorials in [geekr.dev](https://geekr.dev) and [laravelacademy.org](https://laravelacademy.org) via Typora and Markdown.
+
+:octocat: Also running a community —— [Geek Advanced Growth Camp](https://wx.zsxq.com/dweb2/index/group/28514114485181), which is [极客进阶成长营](https://wx.zsxq.com/dweb2/index/group/28514114485181) in Chinese.
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
 
