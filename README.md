@@ -10,7 +10,7 @@
 
 :dart: Mind and Hand, making the world a little better through coding.
 
-:computer: Coding with VSCode + NeoVim daily on Win/Mac(16c32g), main language is Go, with PHP second.
+:computer: Coding with VSCode + NeoVim daily on Win/Mac, main language is Go, with PHP second.
 
 :pencil: Writing and sharing tutorials in [geekr.dev](https://geekr.dev) and [laravelacademy.org](https://laravelacademy.org) via Typora and Markdown.
 
