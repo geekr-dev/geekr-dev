@@ -6,11 +6,11 @@
 [![](https://img.shields.io/badge/--%23000000?style=flat&logo=zhihu&logoColor=ffffff)](https://www.zhihu.com/people/xueyuanjun)
 [![](https://img.shields.io/badge/--%23000000?style=flat&logo=rss&logoColor=ffffff)](https://geekr.dev/feed)
 
-:smiley: ` ` I am a developer from [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou).
+:smiley: I am a developer from [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou).
 
-:dart: ` ` My goal is to `Mind and Hand, making the world a little better through coding`, position at [Geekr.dev](https://geekr.dev).
+:dart: My goal is to `Mind and Hand, making the world a little better through coding`, position at [Geekr.dev](https://geekr.dev).
 
-:pencil: ` ` I write a lot in my blog [geekr.dev](https://geekr.dev) and [laravelacademy.org](https://laravelacademy.org).
+:pencil: I write a lot in my blog [geekr.dev](https://geekr.dev) and [laravelacademy.org](https://laravelacademy.org) Via Typora and Markdown.
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
 
