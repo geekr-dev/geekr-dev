@@ -16,7 +16,7 @@
 
 :octocat: Also running a community —— [Geek Advanced Growth Camp](https://wx.zsxq.com/dweb2/index/group/28514114485181), which is [极客进阶成长营](https://wx.zsxq.com/dweb2/index/group/28514114485181) in Chinese.
 
-## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![Golang](https://img.shields.io/badge/-Golang-%2329BEB0?style=flat-square&logo=go&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
