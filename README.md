@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/--%23000000?style=flat&logo=zhihu&logoColor=ffffff)](https://www.zhihu.com/people/xueyuanjun)
 [![](https://img.shields.io/badge/--%23000000?style=flat&logo=rss&logoColor=ffffff)](https://geekr.dev/feed)
 
-:smiley: I am a developer from [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou).
+:smiley: I am a developer from [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou)，known as 学院君 in China.
 
 :dart: Mind and Hand, making the world a little better through coding.
 
