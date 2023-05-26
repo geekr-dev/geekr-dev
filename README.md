@@ -6,11 +6,11 @@
 [![](https://img.shields.io/badge/--%23000000?style=flat&logo=zhihu&logoColor=ffffff)](https://www.zhihu.com/people/xueyuanjun)
 [![](https://img.shields.io/badge/--%23000000?style=flat&logo=rss&logoColor=ffffff)](https://geekr.dev/feed)
 
-:smiley: I am a developer from [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou)，known as 学院君 in China.
+:smiley: I am a fullstack developer from [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou)，known as 学院君 in China.
 
-:dart: Mind and Hand, making the world a little better through coding.
+:dart: CEO and Founder of GeekAI, which is an AI Studio aims to build smart AI tools to make worklife better.
 
-:computer: Coding with VSCode + NeoVim daily on Win/Mac, main language is Go, with PHP second.
+:computer: Coding with VSCode + Copilot daily on Win/Mac, main language is Go, with PHP second.
 
 :pencil: Writing and sharing tutorials in [geekr.dev](https://geekr.dev) and [laravelacademy.org](https://laravelacademy.org) via Typora and Markdown.
 
