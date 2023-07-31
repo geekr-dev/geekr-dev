@@ -8,7 +8,7 @@
 
 :smiley: I am a fullstack developer from [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou)，known as 学院君 in China.
 
-:dart: Creator of [GeekAI](https://geekai.co), which is an AI Studio aims to build smart AI tools to make worklife better.
+:dart: Creator of [GeekAI](https://geekai.co), which aims to providing individuals with AI intelligence engine.
 
 :computer: Coding with VSCode + Copilot daily on Win/Mac, main language is Go, with PHP second.
 
