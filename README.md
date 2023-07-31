@@ -8,13 +8,13 @@
 
 :smiley: I am a fullstack developer from [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou)，known as 学院君 in China.
 
-:dart: CEO and Founder of GeekAI, which is an AI Studio aims to build smart AI tools to make worklife better.
+:dart: Creator of [GeekAI](https://geekai.co), which is an AI Studio aims to build smart AI tools to make worklife better.
 
 :computer: Coding with VSCode + Copilot daily on Win/Mac, main language is Go, with PHP second.
 
 :pencil: Writing and sharing tutorials in [geekr.dev](https://geekr.dev) and [laravelacademy.org](https://laravelacademy.org) via Typora and Markdown.
 
-:octocat: Also running a community —— [Geek Advanced Growth Camp](https://wx.zsxq.com/dweb2/index/group/28514114485181), which is [极客进阶成长营](https://wx.zsxq.com/dweb2/index/group/28514114485181) in Chinese.
+:octocat: Also running some communities —— [AI&ChatGPT研习社](https://wx.zsxq.com/dweb2/index/group/48884858818288) and [学院君订阅服务](https://wx.zsxq.com/dweb2/index/group/28514114485181).
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
