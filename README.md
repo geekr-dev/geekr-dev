@@ -12,7 +12,7 @@
 
 :computer: Coding with VSCode + Copilot daily on Win/Mac, main language is Go, with PHP second.
 
-:pencil: Writing and sharing tutorials in [geekr.dev](https://geekr.dev) and [laravelacademy.org](https://laravelacademy.org) via Typora and Markdown.
+:pencil: Writing and sharing tutorials in [极客书房](https://study.geekai.co) and [Laravel学院](https://laravel.geekai.co) via Typora and Markdown.
 
 :octocat: Also running some communities —— [AI&ChatGPT研习社](https://wx.zsxq.com/dweb2/index/group/48884858818288) and [学院君订阅服务](https://wx.zsxq.com/dweb2/index/group/28514114485181), etc.
 
