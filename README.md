@@ -14,7 +14,7 @@
 
 :pencil: Writing and sharing tutorials in [极客书房](https://study.geekai.co) and [Laravel学院](https://laravel.geekai.co) via Typora and Markdown.
 
-:octocat: Also running some communities —— [AI&ChatGPT研习社](https://wx.zsxq.com/dweb2/index/group/48884858818288) and [学院君订阅服务](https://wx.zsxq.com/dweb2/index/group/28514114485181), etc.
+:octocat: Also running some communities —— [AI&ChatGPT研习社](https://wx.zsxq.com/dweb2/index/group/48884858818288) and [极客书房订阅服务](https://wx.zsxq.com/dweb2/index/group/28514114485181), etc.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
